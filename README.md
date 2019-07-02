@@ -21,7 +21,7 @@ Pay careful attention to the specs here!
 
 * For the medium viewport, there should be 7 rows.
   * The odd-numbered rows (1, 3, 5, and 7) should have 3 images each, with the first 2 taking up a quarter of the width each and the last taking up half.
-  * The even-numbred rows (2, 4, and 6) should have 4 images each, with the images of even size.
+  * The even-numbered rows (2, 4, and 6) should have 4 images each, with the images of even size.
 
 * For the extra small viewport, there should be 24 rows of one photo each.
 
